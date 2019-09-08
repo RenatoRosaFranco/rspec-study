@@ -42,6 +42,39 @@
         null,
         null
       ],
+      "/home/renato-franco/Área de Trabalho/rspec-book/spec/game_spec.rb": [
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/renato-franco/Área de Trabalho/rspec-book/lib/game.rb": [
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/home/renato-franco/Área de Trabalho/rspec-book/spec/stack_spec.rb": [
         null,
         null,
@@ -98,6 +131,6 @@
         null
       ]
     },
-    "timestamp": 1567951872
+    "timestamp": 1567952867
   }
 }
