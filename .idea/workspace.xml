@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c82134-a697-451f-9692-23e3d88caa76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/bag_of_words_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bag_of_words.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stack.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/stack.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/bag_of_words_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/bag_of_words_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/stack_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/stack_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +22,9 @@
     <option name="directoryName" value="VfgmuRWt" />
   </component>
   <component name="ProjectId" id="1QYXu2Ul2QT3SpH03ewl0adqZAt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
@@ -132,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567948724611</updated>
-      <workItem from="1567948751161" duration="1990000" />
+      <workItem from="1567948751161" duration="3070000" />
     </task>
     <servers />
   </component>

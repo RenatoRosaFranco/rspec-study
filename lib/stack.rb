@@ -5,7 +5,7 @@ class Stack
     @elements = []
   end
 
-  def push element
+  def push(element)
     @elements << element
   end
 
